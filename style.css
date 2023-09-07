@@ -570,10 +570,14 @@ body {
 	  position: unset;
 	}
 
+	
+	
+  }
+
+  @media only screen and (min-width: 970px) and (max-width: 1199.98px) and (orientation: portrait){
 	.carousel-inner{
 		height: 50vh;
 	}
-	
   }
   
   @media screen and (min-width: 768px) {
