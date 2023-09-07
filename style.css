@@ -569,6 +569,10 @@ body {
 	.footer {
 	  position: unset;
 	}
+
+	.carousel-inner{
+		height: 50vh;
+	}
 	
   }
   
