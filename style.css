@@ -608,8 +608,14 @@ body {
 	.navbar-nav {
 		text-align: center;
 	}
+
+	.carousel-inner{
+		height: 50vh;
+	}
+
 	.carousel-caption {
 		/* bottom: 125px; */
+		top: 100px;
 	}
 	.carousel-caption h5 {
 		font-size: 17px;
